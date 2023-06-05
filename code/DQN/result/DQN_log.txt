@@ -1,0 +1,13 @@
+----------Start training----------
+episode 50 : -190.2 average score
+episode 100 : -135.48 average score
+episode 150 : -134.14 average score
+episode 200 : -134.42 average score
+episode 250 : -119.28 average score
+episode 300 : -123.76 average score
+episode 350 : -121.5 average score
+success at episode 377
+----------Start testing----------
+average score: -116.9
+max reward: -86.0
+min reward: -157.0
